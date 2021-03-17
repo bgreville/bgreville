@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bgreville
-- 👀 I’m interested in using pythin for testing
+- 👀 I’m interested in using python for testing
 - 🌱 I’m currently learning pytest, selenium
 - 💞️ I’m looking to collaborate on not sure yet
 - 📫 How to reach me ...
